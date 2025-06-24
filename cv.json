@@ -4,8 +4,8 @@
     "label": "Junior Full Stack Developer",
     "image": "/me_avatar.jpg",
     "email": "ma.abddel.mohsen@gmail.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "phone": "004915206812749",
+    "url": "https://about.moje.cc",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "blue",
     "location": {
@@ -18,117 +18,139 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "mahmoudmohsen",
+        "url": "https://linkedin.com/in/mahmoudmohsen"
       },
       {
         "network": "X",
-        "username": "john-doe",
+        "username": "mahmoudamohsen",
         "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "m-a-mohsen",
+        "url": "https://github.com/m-a-mohsen"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "PREA Group",
+      "position": "Computational Designer",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "location": "Berlin, Germany",
+      "url": "https://prea.eu",
+      "startDate": "2021-04-30",
+      "endDate": "2022-09-30",
+      "summary": "Worked on design automation projects, focusing on data center architectural design and environmental strategies.",
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
+        "Planing and development of design and construction automation project.",
+        "Participating in data center architectural design.",
+        "Development and implementation of environmental design strategies."
+      ],      "skills": [
+        "Revit",
+        "Rhinoceros",
+        "3ds Max",
         "Git"
       ]
+
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "name": "Schlumberger",
+      "position": "Architect / Owner Representative",
+      "location_type": "On site",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://slb.com",
+      "startDate": "2014-10-31",
+      "endDate": "2015-10-31",
+      "summary": "Acted as an owner representative for various architectural projects, ensuring compliance with design specifications and quality standards.",
+    
+      "responsibilities": [
+        "Managed internal stakeholders debriefing for new projects.",
+        "Designed architectural and technical projects in EMEA and APAC region.",
+        "Acting as owner representative for oversees projects."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Revit",
+        "Rhinoceros",
+        "3ds Max",
+        "AutoCAD"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+      "name": "Al Khayyat Investments (AKI)",
+      "position": "Liaison Engineer",
+      "location_type": "On site",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.akigroup.com/",
+      "startDate": "2011-01-31",
+      "endDate": "2014-10-31",
+      "summary": "Served as a liaison engineer, coordinating between various stakeholders to ensure project alignment and compliance with engineering standards.",
+      "responsibilities": [
+        "Coordination between construction teams, project stakeholders and regulatory authorities.",
+        "Provide technical expertise, guidance and interpretation of construction documents to ensure adherence to engineering principles and project requirements.",
+        "Conduct site inspections, quality control checks and ensure compliance with building codes, safety regulations and industry standards."
+      ],
+      "skills": [
+        "AutoCAD",
+        "Primavera"
+      ]
+    },
+    {
+      "name": "FA Engineering Consultancy",
+      "position": "Architect",
+      "location_type": "On site",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.firstart.ae",
+      "startDate": "2009-07-31",
+      "endDate": "2011-01-31",
+      "summary": "Worked as an architect, focusing on the design and development of various architectural projects, ensuring they met client specifications and regulatory requirements.",
+      "responsibilities": [
+        "Collaboration with clients to understand their project requirements, design preferences and site constraints.",
+        "Developing conceptual designs, sketches and 3D models to visually communicate design ideas and solutions.",
+        "Preparing detailed architectural drawings, including floor plans, elevations, sections and construction details using CAD software."
+      ],
+      "skills": [
+        "AutoCAD",
+        "3ds Max",
+        "Revit",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Archen Engineering Consultants",
+      "position": "Architect",
+      "location_type": "On site",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://archen.com/",
+      "startDate": "2007-12-31",
+      "endDate": "2009-07-31",
+      "summary": "Collaborated with engineering consultants, specified materials and systems, and prepared visual presentations to communicate architectural designs.",
+      "responsibilities": [
+        "Coordinating with engineering consultants to integrate their input into the architectural design.",
+        "Selecting and specifying appropriate building materials, finishes and systems, based on project requirements and design intent.",
+        "Preparing design presentations, renderings, and other visual aids to effectively communicate the proposed design to clients and stakeholders."
+      ],
+      "skills": [
+        "AutoCAD",
+        "3ds Max",
+        "Revit",
+        "Photoshop"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "institution": "Technische Hochschule Ostwestfalen-Lippe",
+      "url": "https://mid.ids-research.de/",
+      "area": "Computational design",
+      "studyType": "Master of Engineering - MEng",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
       "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+      "Skills": [
+        "C#",
+        "Python"
       ]
     },
     {
