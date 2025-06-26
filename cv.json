@@ -1,12 +1,15 @@
 {
   "basics": {
     "name": "Mahmoud Abdel Mohsen",
-    "label": "Junior Full Stack Developer",
+    "lastName": "Abdel Mohsen",
+    "firstName": "Mahmoud",
+    "title": "M.Eng., B.Sc., PMP®, LEED AP BD+C®", 
+    "label": "AI Engineer / Full Stack Developer",
     "image": "/me_avatar.jpg",
     "email": "ma.abddel.mohsen@gmail.com",
     "phone": "004915206812749",
     "url": "https://about.moje.cc",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Experienced  Full Stack Developer and AI Engineer  with a strong background in computational design and architectural engineering. Proven track record in developing innovative solutions and automating design processes. Skilled in various programming languages and frameworks, with a passion for leveraging technology to improve efficiency and effectiveness. Committed to continuous learning and professional development, with a focus on healthcare, education, housing, and social development domains.",
     "theme": "blue",
     "location": {
       "address": "",
