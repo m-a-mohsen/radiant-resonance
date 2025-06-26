@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": "FA Engineering Consultancy",
+      "name": "FA Engineering Consultants",
       "position": "Architect",
       "location_type": "On site",
       "location": "Dubai, United Arab Emirates",
@@ -165,7 +165,7 @@
       "institution": "Technische Hochschule Ostwestfalen-Lippe",
       "url": "https://mid.ids-research.de/",
       "area": "Computational design",
-      "studyType": "Master of Engineering - MEng",
+      "studyType": "Master of Engineering (M.Eng.)",
       "startDate": "2018-12-31",
       "endDate": "2020-12-31",
       "score": "3.8",
@@ -175,10 +175,10 @@
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
+      "institution": "Alexandria University, Egypt",
+      "url": "https://eng.alexu.edu.eg/index.php/en/academic-programs/under-graduate/9-english/1106-undergrad-arch-en",
+      "area": "Architectural Engineering",
+      "studyType": "Bachelor",
       "startDate": "2020-09-01",
       "endDate": "2022-12-01",
       "score": "3.9",
@@ -186,20 +186,8 @@
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
       ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
     }
+
   ],
   "certificates": [
     {
