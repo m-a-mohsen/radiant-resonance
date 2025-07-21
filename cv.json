@@ -27,7 +27,7 @@
       {
         "network": "X",
         "username": "mahmoudamohsen",
-        "url": "https://x.com/john-doe"
+        "url": "https://x.com/mahmoudamohsen"
       },
       {
         "network": "GitHub",
@@ -346,9 +346,15 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "German",
       "fluency": "Intermediate"
     }
+    ,
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    }
+
   ],
   "interests": [
     {
