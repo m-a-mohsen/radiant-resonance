@@ -39,7 +39,7 @@
   "location": "Berlin, Germany",
   "url": "https://kulturleben-berlin.de/",
   "startDate": "2025-09-01",
-  "endDate": "Present",
+  "endDate": null,
   "summary": "Leading the modernisation of internal digital infrastructure with a focus on self-hosted AI systems, accessibility, internationalisation, automation, and long-term maintainability in a non-profit environment, while ensuring compliance with EU and German regulations.",
   "responsibilities": [
     "Designing, deploying, and maintaining self-hosted open-source AI and ML systems to replace external SaaS solutions.",
