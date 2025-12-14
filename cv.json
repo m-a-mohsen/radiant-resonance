@@ -32,6 +32,41 @@
     ]
   },
   "work": [
+{
+  "name": "KulturLeben Berlin - Schlüssel zur Kultur e.V.",
+  "position": "Full Stack Web Developer | AI Engineer | ML/DevOps",
+  "location_type": "On site",
+  "location": "Berlin, Germany",
+  "url": "https://kulturleben-berlin.de/",
+  "startDate": "2025-09-01",
+  "endDate": "Present",
+  "summary": "Leading the modernisation of internal digital infrastructure with a focus on self-hosted AI systems, accessibility, internationalisation, automation, and long-term maintainability in a non-profit environment, while ensuring compliance with EU and German regulations.",
+  "responsibilities": [
+    "Designing, deploying, and maintaining self-hosted open-source AI and ML systems to replace external SaaS solutions.",
+    "Refactoring and modernising legacy web services and infrastructure to reduce technical debt, operational risk, and maintenance costs.",
+    "Developing and maintaining full-stack web applications for both web and mobile platforms.",
+    "Building an internationalisation (i18n) system from the ground up across web and mobile platforms, including translation workflows, locale handling, and content fallback strategies.",
+    "Implementing DevOps practices including containerisation, CI/CD pipelines, monitoring, and backup strategies.",
+    "Ensuring digital systems and data processing workflows comply with EU and German regulations (e.g. GDPR and upcoming EU AI Act requirements).",
+    "Ensuring web and mobile accessibility in accordance with German BITV 2.0 and WCAG standards, including semantic markup, keyboard navigation, screen reader compatibility, and accessible design patterns."
+  ],
+  "achievements": [
+    "Successfully migrated critical AI-dependent workflows from third-party providers to self-hosted open-source models, significantly reducing recurring costs and vendor lock-in.",
+    "Delivered a scalable accessibility- and i18n-ready frontend architecture, enabling inclusive and multilingual access across devices."
+  ],
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "Nuxt",
+    "Python",
+    "CI/CD",
+    "Linux",
+    "Self-hosted AI/ML",
+    "DevOps",
+    "Web Accessibility (BITV 2.0, WCAG)",
+    "Internationalisation (i18n)"
+  ]
+},
     {
       "name": "PREA Group",
       "position": "Computational Designer",
